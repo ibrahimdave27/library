@@ -1,5 +1,5 @@
 ---
-  title: ATC Training Policy
+title: ATC Training Policy
 
 ---
 # ATC Training Policy
