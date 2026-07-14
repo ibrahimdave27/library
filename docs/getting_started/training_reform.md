@@ -89,13 +89,13 @@ For those going **OBS → S1**, the majority of the work is now in your hands wi
 
 ## 📝 Reminders for All Controllers  
 
-- **Euroscope User Guide (since Dec 2024):**  
+- **Euroscope User Guide (since Jul 2026):**  
   👉 [Getting Started, Euroscope](https://library.arabianvacc.com/getting_started/euroscope/)
 
-- **Audio Client User Guide (since Dec 2024):**  
+- **Audio Client User Guide (since Jul 2026):**  
   👉 [Getting Started, Audio Client](https://library.arabianvacc.com/getting_started/audio/)
 
-- **vATIS Client User Guide (since Dec 2024):**  
+- **vATIS Client User Guide (since Jul 2026):**  
   👉 [Getting Started, vATIS](https://library.arabianvacc.com/getting_started/vatis/)
 
 - **vATIS Update Requirement:**  
