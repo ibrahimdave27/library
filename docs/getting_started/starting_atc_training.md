@@ -32,7 +32,7 @@ Check your status and how to join here: [Joining Arabian](https://library.arabia
 Before you can observe or train, install the following:
 
 - [Euroscope & Sector Files](https://library.arabianvacc.com/getting_started/euroscope/)
-- [An Audio for VATSIM Client](https://library.arabianvacc.com/getting_started/audio/)
+- [An Audio for VATSIM Client](https://library.vatsim-arabian.com/getting_started/audio/)
 - [vATIS](https://library.arabianvacc.com/getting_started/vatis/)
 
 🎥 **Watch this video guide** on how to observe on the network:  
