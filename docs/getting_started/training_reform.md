@@ -35,18 +35,18 @@ To solve this:
 ## 📚 Essential Resources  
 
 - **Getting Started Guide (OBS → S1):**  
-  👉 [Getting Started - ATC Training](https://library.arabianvacc.com/getting_started/starting_atc_training/)<br>Every step to begin your ATC journey is explained here, including how to become a **resident of the vACC**. Please read this guide carefully before asking questions.  
+  👉 [Getting Started - ATC Training](https://library.vatsim-arabian.com/getting_started/starting_atc_training/)<br>Every step to begin your ATC journey is explained here, including how to become a **resident of the vACC**. Please read this guide carefully before asking questions.  
 
 
 - **ATC Training Policy:**  
-  👉 [ATC Training Policy](https://library.arabianvacc.com/policies/atc_training/general/)<br>This policy covers expressions of interest, waiting lists, active training, airports, CTAs/TMAs, ACCs, progression requirements, endorsements (Tier-1 & upcoming Tier-2), and activity requirements.  
+  👉 [ATC Training Policy](https://library.vatsim-arabian.com/policies/atc_training/general/)<br>This policy covers expressions of interest, waiting lists, active training, airports, CTAs/TMAs, ACCs, progression requirements, endorsements (Tier-1 & upcoming Tier-2), and activity requirements.  
 
 
 - **What to Expect During Sessions:**  
-    - [S1](https://library.arabianvacc.com/policies/atc_training/s1/)  
-    - [S2](https://library.arabianvacc.com/policies/atc_training/s2/)  
-    - [S3](https://library.arabianvacc.com/policies/atc_training/s3/)  
-    - [C1](https://library.arabianvacc.com/policies/atc_training/c1/)  
+    - [S1](https://library.vatsim-arabian.com/policies/atc_training/s1/)  
+    - [S2](https://library.vatsim-arabian.com/policies/atc_training/s2/)  
+    - [S3](https://library.vatsim-arabian.com/policies/atc_training/s3/)  
+    - [C1](https://library.vatsim-arabian.com/policies/atc_training/c1/)  
 
 ---
 
@@ -102,7 +102,7 @@ For those going **OBS → S1**, the majority of the work is now in your hands wi
   All controllers must update their vATIS client, refresh their profiles to the latest automatic ones: 👉 [Arabian vACC, vATIS Profiles](https://github.com/Arabian-vACC/vATIS-Profiles/releases) and ensure correct **Airport Conditions & NOTAMs** are selected.  
 
 - **Controller Operations Policy:**  
-  👉 [Controller Operations Policy](https://library.arabianvacc.com/policies/atc_operations/controller_operations_policy/)<br>Covers connection procedures, minimum session time, Discord presence, relief callsigns, and more.  
+  👉 [Controller Operations Policy](https://library.vatsim-arabian.com/policies/atc_operations/controller_operations_policy/)<br>Covers connection procedures, minimum session time, Discord presence, relief callsigns, and more.  
 
 - **General Marketing Policy (released Aug 18th):**  
   👉 [Marketing Policy](https://library.arabianvacc.com/policies/marketing/general/#event-signup)<br>Outlines **Event Rostering rules and regulations**.  
