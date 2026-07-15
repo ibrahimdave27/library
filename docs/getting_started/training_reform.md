@@ -109,6 +109,3 @@ For those going **OBS → S1**, the majority of the work is now in your hands wi
 
 ---
 
-# 📆 Training Resumes: **Monday, September 22nd, 2025**
-
-On this date, **support tickets to express your interest in ATC training will reopen**, and the **new training program will officially launch**.
