@@ -89,14 +89,14 @@ For those going **OBS → S1**, the majority of the work is now in your hands wi
 
 ## 📝 Reminders for All Controllers  
 
-- **Euroscope User Guide (since Dec 2026):**  
-  👉 [Getting Started, Euroscope](https://library.vatsim-arabian.com/getting_started/euroscope/)
+- **Euroscope User Guide (since Jul 2026):**  
+  👉 [Getting Started, Euroscope](https://library.arabianvacc.com/getting_started/euroscope/)
 
-- **Audio Client User Guide (since Dec 2026):**  
-  👉 [Getting Started, Audio Client](https://library.vatsim-arabian.com/getting_started/audio/)
+- **Audio Client User Guide (since Jul 2026):**  
+  👉 [Getting Started, Audio Client](https://library.arabianvacc.com/getting_started/audio/)
 
-- **vATIS Client User Guide (since Dec 2026):**  
-  👉 [Getting Started, vATIS](https://library.vatsim-arabian.com/getting_started/vatis/)
+- **vATIS Client User Guide (since Jul 2026):**  
+  👉 [Getting Started, vATIS](https://library.arabianvacc.com/getting_started/vatis/)
 
 - **vATIS Update Requirement:**  
   All controllers must update their vATIS client, refresh their profiles to the latest automatic ones: 👉 [Arabian vACC, vATIS Profiles](https://github.com/Arabian-vACC/vATIS-Profiles/releases) and ensure correct **Airport Conditions & NOTAMs** are selected.  
@@ -105,4 +105,10 @@ For those going **OBS → S1**, the majority of the work is now in your hands wi
   👉 [Controller Operations Policy](https://library.vatsim-arabian.com/policies/atc_operations/controller_operations_policy/)<br>Covers connection procedures, minimum session time, Discord presence, relief callsigns, and more.  
 
 - **General Marketing Policy (released Aug 18th):**  
-  👉 [Marketing Policy](https://library.vatsim-arabian.com/policies/marketing/general/)<br>Outlines **Event Rostering rules and regulations**.  
+  👉 [Marketing Policy](https://library.arabianvacc.com/policies/marketing/general/#event-signup)<br>Outlines **Event Rostering rules and regulations**.  
+
+---
+
+# 📆 Training Resumes: **Monday, September 22nd, 2025**
+
+On this date, **support tickets to express your interest in ATC training will reopen**, and the **new training program will officially launch**.
