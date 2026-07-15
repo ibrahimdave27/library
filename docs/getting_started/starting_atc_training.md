@@ -31,9 +31,9 @@ Check your status and how to join here: [Joining Arabian](https://library.vatsim
 
 Before you can observe or train, install the following:
 
-- [Euroscope & Sector Files](https://www.euroscope.hu/wp/category/public-release/)
-- [An Audio for VATSIM Client](https://github.com/pierr3/TrackAudio)
-- [vATIS](https://vatis.app/)
+- [Euroscope & Sector Files](https://library.arabianvacc.com/getting_started/euroscope/)
+- [An Audio for VATSIM Client](https://library.vatsim-arabian.com/getting_started/audio/)
+- [vATIS](https://library.arabianvacc.com/getting_started/vatis/)
 
 🎥 **Watch this video guide** on how to observe on the network:  
 [Arabian vACC - Controller Software & Observation Guide](https://www.youtube.com/watch?v=ycCieiy0ufc)
