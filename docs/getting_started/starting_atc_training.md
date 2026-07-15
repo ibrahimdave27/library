@@ -101,10 +101,10 @@ Once all sessions in the [S1 Training Syllabus](https://library.vatsim-arabian.c
 
 ## 🌐 Future Endorsements
 
-After your S1 rating, you may work toward:
+After your S1 rating, you may work towards:
 
 - **Tier-1 Dubai DEL/GND Endorsement**
-- **Tier-2 AFIS Endorsement**
+- **S2 Tower Controller**
 
 Requirements are outlined in the [ATC Training Policy](https://library.vatsim-arabian.com/policies/atc_training/general/).
 
