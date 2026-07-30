@@ -162,11 +162,11 @@ When a taxi clearance includes a limit beyond a runway, it must contain either:
 **Note**: When a clearance includes the instruction **“report runway vacated”**, the runway is considered vacated when the entire aircraft has passed the relevant **runway holding position**.  
 
 !!! example
-    **Pilot**: "HAMAD GROUND, QATARI 587, REQUEST TAXI."
+    **Pilot**: "Abu Dhabi GROUND, Etihad 587, REQUEST TAXI."
 
-    **Controller**: "QATARI 587, TAXI VIA E, C, A2, HOLD SHORT RUNWAY 34R."
+    **Controller**: "Etihad 587, TAXI VIA M, M3, C, D10, HOLD SHORT RUNWAY 31L."
 
-    **Pilot**: "TAXI VIA E, C, A2, HOLD SHORT RUNWAY 34R, QATARI 587."
+    **Pilot**: "TAXI VIA M, M3, C, D10, HOLD SHORT RUNWAY 31L Etihad 587."
 
 ### 3.2.3 Conditional clearance
 In certain situations, it may be beneficial for controllers to issue a **conditional clearance** to an aircraft, for example: “**BEHIND PASSING EGYPTAIR BOEING 777 FROM LEFT TO RIGHT**.”  
@@ -813,13 +813,13 @@ To help establish and maintain separation, pilots may be instructed to provide t
 - **Routing Reports**: Pilots may be asked to report specific waypoints, heading changes, or other navigational information.
 
 !!! example
-    **Controller**: "SAUDIA 550, REPORT 25 MILES FROM THE DOHA VOR."
+    **Controller**: "SAUDIA 550, REPORT 25 MILES FROM THE Abu Dhabi VOR."
 
     **Pilot**: "WILCO, SAUDIA 550."
 
-    **Controller**: "SAUDIA 550, REPORT DISTANCE FROM THE DOHA VOR."
+    **Controller**: "SAUDIA 550, REPORT DISTANCE FROM THE Abu Dhabi VOR."
 
-    **Pilot**: "DISTANCE 37 MILES FROM THE DOHA VOR, SAUDIA 550."
+    **Pilot**: "DISTANCE 37 MILES FROM THE Abu Dhabi VOR, SAUDIA 550."
 
 ### 3.5.3 Level information
 Level information includes climb and descent clearances, as well as instructions and reports of leaving, reaching, and passing levels, as outlined in the Level Instructions section of the general procedures and phraseology.
