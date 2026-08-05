@@ -56,11 +56,11 @@ If there is any uncertainty about whether a message has been correctly received,
 When ATC is uncertain of the identity of the last station received, the calling station should be asked to repeat its callsign.
 
 !!! example
-    **Pilot**: "HAMAD TOWER, IFLY 1307."
+    **Pilot**: "DUBAI TOWER, UAE 2LC."
 
-    **Controller**: "STATION CALLING HAMAD TOWER, SAY AGAIN CALLSIGN."
+    **Controller**: "STATION CALLING DUBAI TOWER, SAY AGAIN CALLSIGN."
 
-    **Pilot**: "HAMAD TOWER, IFLY 1307."
+    **Pilot**: "DUBAI TOWER, UAE 2LC."
 
 ### 2.1.4 Correcting a transmission
 1. **Correcting a Specific Phrase**  
