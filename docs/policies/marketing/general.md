@@ -8,11 +8,11 @@
 |                     |                            |
 |:-------------------:|:--------------------------:|
 |         Type        |           Guideline        |
-|       Revision      |           01/2025          |
-|    Effective Date   |         19 AUG 2025        |
-|     Prepared by     | Chriss Klosowski - ACCARB1 |
-|     Approved by     | Chriss Klosowski - ACCARB1 |
-|   Next review date  |         19 AUG 2026        |
+|       Revision      |           03/2026          |
+|    Effective Date   |         01 SEP 2026        |
+|     Prepared by     | Ali Ismail - ACCARB5 & Ibrahim Dave - ACCARB51  |
+|     Approved by     | Ali Ismail - ACCARB5 |
+|   Next review date  |         30 JUL 2027        |
 | Cancelled documents |             NIL            |
 
 ### Record of Revisions
@@ -20,6 +20,7 @@
 |-----------------|--------------|----------------|
 | 01/2025         | Initial Issue| 18 AUG 2025    |
 | 02/2025         | Added clauses for easy referral| 12 SEP 2025    |
+| 03/2026         | Amended clauses for easy referral <br> Updated the links within the policy <br> Removed the socials until the E&M Department stablizes it's new restructure <br> Updated Marketing department to clarify Events department to handle the sign ups and rosters <br> Added the clause that explains "Cancellations and No-Shows" with reference to the divisional E&M policy. | 01 SEP 2026    |
 
 
 # 1. Scope
@@ -39,18 +40,16 @@ Events organized by the **Arabian vACC** or those in which the vACC participates
 - **VATMENA Discord** ([community.vatsim.net](https://community.vatsim.net))  
     - Discord Calendar & Announcements  
 - **Arabian vACC Social Media**  
-    - **X/Twitter:** [https://x.com/arabianvacc](https://x.com/arabianvacc)  
-    - **Facebook:** [https://www.facebook.com/arabianvacc/](https://www.facebook.com/arabianvacc)  
-    - **Instagram:** [https://www.instagram.com/arabianvacc](https://www.instagram.com/arabianvacc)  
+    - N/A as pasrt of the restructure. To be added.
 - **myVATSIM Events Calendar** ([my.vatsim.net](https://my.vatsim.net))  
 
 The Marketing Department strives to:
 
-- Publish **controller examinations** with at least **2 weeks’ notice**.  
-- Publish **events** with at least **4 weeks’ notice**.  
-- Publish **rosters** for rostered events **no later than the night before** the event.  
+- Publish **controller examinations** with at least **2 weeks’ notice** or when examiner/s have been conlcuded and chosen.  
+- Publish **events** with at least **2 weeks’ notice**.  
+- Publish **rosters** for rostered events **no later than the night before** the event. And at **least 48 hours** prior a large event.  
 
-Requests for ATC coverage from **virtual airlines** or other vACCs are generally **not published in the calendar** and usually require only a staffing announcement.
+Requests for ATC coverage from **virtual airlines** or other vACCs are generally **not published in the calendar** and usually require only a staffing announcement, this clause is overruled with VA's that are partnered with the Arabian vACC.
 
 ## 2.2 Event Types
 **Open Signup Events**  
@@ -70,17 +69,19 @@ Every event or controller examination will have a dedicated staffing post create
 
 Controllers are expected to:  
 
-- Clearly indicate their availability when signing up, using the provided signup template if one is given. Include your current rating and any relevant endorsements.  
-- Promptly update your availability if any changes occur and notify the Marketing Department accordingly. Refer to the **Cancellations and No-Shows** section for guidance.  
-- Ensure that you hold the necessary rating and endorsements for any position you choose or request.  
+- Controllers must clearly indicate their availability when signing up through the designated ATC Requests signup links, which will direct them to the MENA HQ system. Sign-ups should only be submitted if the controller is confident that they will be available to actively control for the entire duration of the selected timeslot. Controllers who are uncertain of their availability, or who anticipate being unavailable for any portion of the assigned period, should refrain from signing up until their availability can be confirmed. 
+- Promptly update your availability if any changes occur and **need** to notify the Events Department accordingly. Refer to the **Cancellations and No-Shows** section for guidance.  
+- Ensure that you hold the necessary rating and endorsements for any position you choose or request.
+- Any student opting for an online session needs permission from the ATC Training Department and the Events Department
+- Controllers opting to sign up to positions that are not listed in the event sign up page will not need to  
 
-### 2.3.1 Solo Validations
+### 2.3.1 Solo Endorsements
 Controllers who wish to staff a position using a **solo endorsement** must first obtain permission from the **ATC Training Department** before they can be rostered or book the position.  
 
 However, holders of a **permanent rating** may be given priority during the rostering process.
 
 ## 2.4 Event Rostering
-For **rostered events**, position assignments are typically managed by the **Marketing Department**. At their discretion, this responsibility may be delegated to another member of the **Arabian vACC Staff team**.
+For **rostered events**, position assignments are typically managed by the **Events Department**. At their discretion, this responsibility may be delegated to another member of the **Arabian vACC Staff team**.
 
 When assigning positions, the following factors are taken into account to ensure the best possible experience for pilots and controllers:
 
@@ -94,23 +95,22 @@ When assigning positions, the following factors are taken into account to ensure
 The **event roster** is generally published **no later than the night before the event**. However, short-notice changes may occasionally be necessary.
 
 ## 2.5 Cancellations and No-Shows
-All cancellations and no-shows for events are **recorded**. Controllers should **only sign up for an event if they can commit** to attending. In unavoidable circumstances, controllers must notify the **Marketing Department** as soon as possible using both of the methods below:
+All cancellations and no-shows for events are **recorded**. Controllers should **only sign up for an event if they can commit** to attending. In unavoidable circumstances, controllers must notify the **Events Department** as soon as possible using both of the methods below:
 
 - **Notify the person responsible for rostering**  
-    - Post in the signup forum on Discord **or**  
-    - Submit a **Support Ticket** to the Marketing Department
+    - Post in the signup forum on Discord with pining the events department.
 
 - **Update the original availability post**  
-    - Use **strikethrough text** to indicate the change and avoid confusion
+    - Use the link send in the sign up forms to make amendments.
 
-If a controller needs to make changes **during the event**, such as leaving early or being unable to attend, they must inform the **Marketing Department**. Leaving a rostered event early may be permitted **only if the minimum staffing for the event can still be maintained**.
+If a controller needs to make changes **during the event**, such as leaving early or being unable to attend, they must inform the **Events Department**. Leaving a rostered event early may be permitted **only if the minimum staffing for the event can still be maintained**.
 
 ### 2.5.1 Violations & Consequences
-Violations of the general event guidelines are **monitored** and may result in **disciplinary action** if repeated. Possible consequences include:
+Violations of the general event guidelines are **monitored** and may result in **disciplinary action** if repeated as outlined on clause 4.7.6 of the [Events & Marketing Department](https://drive.google.com/file/d/1uW0WjSNZOFV9hCEaqR14qoay3cPp2GcS/view). Possible consequences include:
 
 - Suspension of **event rostering privileges**  
 - Limiting the controller to **open sign-up positions only**  
 - Prohibition from **advance sign-ups** for both rostered and non-rostered events
 
 ## 2.6 Position Booking
-For each event, individual controllers for an open-signup event or a designated member of the **Marketing Department** is responsible for booking ATC positions. These positions will be managed through the **upcoming ATC booking system**.
+For each event, individual controllers for an open-signup event or a designated member of the **Events Department** is responsible for booking ATC positions. These positions will be managed through the **upcoming ATC booking system**.

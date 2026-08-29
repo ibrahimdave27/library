@@ -8,11 +8,11 @@
 |                     |                            |
 |:-------------------:|:--------------------------:|
 |         Type        |           Guideline        |
-|       Revision      |           01/2025          |
-|    Effective Date   |         19 AUG 2025        |
-|     Prepared by     | Chriss Klosowski - ACCARB1 |
-|     Approved by     | Chriss Klosowski - ACCARB1 |
-|   Next review date  |         19 AUG 2026        |
+|       Revision      |           03/2026          |
+|    Effective Date   |         01 SEP 2026        |
+|     Prepared by     | Ali Ismail - ACCARB5 & Ibrahim Dave - ACCARB51  |
+|     Approved by     | Ali Ismail - ACCARB5 |
+|   Next review date  |         30 JUL 2027        |
 | Cancelled documents |             NIL            |
 
 ### Record of Revisions
@@ -48,8 +48,7 @@ If you are unable to access or download the template, please contact a **member 
 The banner template should be followed as **accurately as possible**:  
 
 - The **top line** must display the **position name** and the **airports covered**, written in **ICAO/IATA format**.  
-- Below, include the **controller’s name** and the **exam rating**.  
-- For **Tier-1 validations**, you may write *T1* instead of the rating.  
+- Below, include the **controller’s name** and the **exam rating**.
 - The **date and time** must be placed at the **bottom of the banner**.  
 
 ## Backgrounds
@@ -61,8 +60,8 @@ Backgrounds must consist of either:
 ## Additional Guidelines
 For more detailed instructions on **banner creation**, please refer to the following guidelines:  
 
-- **Branding Guidelines:** [Arabian vACC Branding](https://library.arabianvacc.com/vacc_documents/marketing/branding/)  
-- **Banner Guidelines:** [Arabian vACC Banners](https://library.arabianvacc.com/vacc_documents/marketing/banners/)  
+- **Branding Guidelines:** [Arabian vACC Branding](https://library.vatsim-arabian.com/policies/marketing/branding/)  
+- **Banner Guidelines:** [Arabian vACC Banners](https://library.vatsim-arabian.com/policies/marketing/banners/)  
 
 It is **essential** that these guidelines are followed to ensure consistency and professionalism.
 
@@ -71,9 +70,7 @@ It is **essential** that these guidelines are followed to ensure consistency and
 All **controller examination titles** must follow this format **without exceptions**:  
 
 - **Standard Exam:** `[S2/S3/C1] Exam | [POSITION]`  
-  *Example:* `S3 Exam | OMAA_1_APP`  
-- **Tier-1 Validation:** `Tier-1 Validation | [POSITION]`  
-  *Example:* `Tier-1 Validation | OMDB_APP`  
+  *Example:* `S3 Examination | OMAA_1_APP`  
 
 ---
 

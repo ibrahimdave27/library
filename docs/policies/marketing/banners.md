@@ -8,11 +8,11 @@
 |                     |                            |
 |:-------------------:|:--------------------------:|
 |         Type        |           Guideline        |
-|       Revision      |           01/2025          |
-|    Effective Date   |         19 AUG 2025        |
-|     Prepared by     | Chriss Klosowski - ACCARB1 |
-|     Approved by     | Chriss Klosowski - ACCARB1 |
-|   Next review date  |         19 AUG 2026        |
+|       Revision      |           03/2026          |
+|    Effective Date   |         01 SEP 2026        |
+|     Prepared by     | Ali Ismail - ACCARB5 & Ibrahim Dave - ACCARB51  |
+|     Approved by     | Ali Ismail - ACCARB5 |
+|   Next review date  |         30 JUL 2027        |
 | Cancelled documents |             NIL            |
 
 ### Record of Revisions
@@ -40,16 +40,16 @@ Through consistent application of these rules, the Arabian vACC demonstrates pro
 
 ## General Guidelines
 ### Title & Logo
-Event titles must be **clear and easy to read**, ensuring members immediately understand what the event is about. The **Arabian vACC logo** must be clearly displayed using the correct variation for the background, and its usage must follow our [branding guidelines](https://library.arabianvacc.com/vacc_documents/marketing/branding/).  
+Event titles must be **clear and easy to read**, ensuring members immediately understand what the event is about. The **Arabian vACC logo** must be clearly displayed using the correct variation for the background, and its usage must follow our [branding guidelines](https://library.vatsim-arabian.com/policies/marketing/branding/).  
 
 The **VATMENA logo** must also be displayed in accordance with the Division’s marketing guidelines. All logos should be **well-spaced** and presented at the **same size** for consistency and professionalism.
 
 ### Information
 Dates must be written in the **day, month format** (e.g. *19th August*). For **repeating events**, the weekday should also be included.  
 
-If the banner is a **controller examination**, the title must specify whether it is a **rating exam** or an **endorsement exam** (e.g. *Tier-1 Validation*).  
+If the banner is a **controller examination**, the title must specify that it is a **rating exam**.
 
-Event airports must always be listed with their **ICAO/IATA codes** (e.g. *OTHH/DOH*) to ensure recognition.  
+Event airports must always be listed with their **ICAO/IATA codes** (e.g. *OMAA/AUH*) to ensure recognition.  
 
 Times must be provided in **24-hour Zulu format**, including both a **start** and **end time**.
 
@@ -61,7 +61,7 @@ If images are used, ensure you have **permission to use them on behalf of the vA
 ### Controller Examination Banners
 Controller examination banners are subject to **stricter requirements**. Only the **official template** and **approved backgrounds** may be used.  
 
-The **titles and descriptions** of controller examinations must strictly follow the [**policy set by the Marketing Department**](https://library.arabianvacc.com/policies/marketing/examinations/).
+The **titles and descriptions** of controller examinations must strictly follow the [**policy set by the Marketing Department**](https://library.vatsim-arabian.com/policies/marketing/examinations/).
 
 ### Colors
 Please use the **color palette defined in the branding guidelines**. Variations in **shades of the primary colors** are permitted.
