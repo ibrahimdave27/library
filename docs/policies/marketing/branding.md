@@ -8,27 +8,19 @@
 |                     |                            |
 |:-------------------:|:--------------------------:|
 |         Type        |           Guideline        |
-|       Revision      |           01/2025          |
-|    Effective Date   |         18 AUG 2025        |
-|     Prepared by     | Chriss Klosowski - ACCARB1 |
-|     Approved by     | Chriss Klosowski - ACCARB1 |
-|   Next review date  |         18 AUG 2026        |
+|       Revision      |           03/2026          |
+|    Effective Date   |         01 SEP 2026        |
+|     Prepared by     | Ali Ismail - ACCARB5 & Ibrahim Dave - ACCARB51  |
+|     Approved by     | Ali Ismail - ACCARB5 |
+|   Next review date  |         30 JUL 2027        |
 | Cancelled documents |             NIL            |
 
 ### Record of Revisions
-<table><thead>
-  <tr>
-    <th>Revision Number</th>
-    <th>Notes</th>
-    <th>Effective Date</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>01/2025</td>
-    <td>Initial Issue</td>
-    <td>18 AUG 2025</td>
-  </tr>
-</tbody></table>
+| Revision Number | Notes        | Effective Date |
+|-----------------|--------------|----------------|
+| 01/2025         | Initial Issue| 18 AUG 2025    |
+| 03/2025         | Updated the links within the policy | 01 SEP 2026    |
+
 
 ## Scope
 Welcome to the **Arabian vACC Branding Guidelines**. This document serves as a comprehensive guide for anyone creating, applying, or simply interested in our branding. Whether you are designing event banners, preparing announcements, or developing new marketing content, these guidelines outline the standards, practices, and expectations that ensure our brand remains consistent and professional.  
@@ -44,7 +36,7 @@ This policy provides practical direction on **fonts, colors, logos, banners, ann
 ### Logo Media Pack
 All approved variants of the **Arabian vACC logo** are included in our **Public Media Package**, which can be downloaded at the link below:  
 
-🔗 [Download Public Media Package](https://drive.google.com/file/d/18kGhlqqW_dJKVcjXsYz4KIjhH2wok0Wt/view?usp=sharing)  
+🔗 [Download Public Media Package](https://drive.google.com/file/d/1baV1OPtnPmmGAq1e32piGmPk4V3Qyxvk/view?usp=sharing)  
 
 This package ensures that everyone uses the correct, high-quality logo files in accordance with our branding guidelines.
 
@@ -60,8 +52,8 @@ The Arabian vACC uses the **Mulish** font for all official branding and communic
 ### Banners
 For detailed guidelines on banner creation, usage, and specifications, please refer to our separate **Banner Policy**:  
 
-🔗 [View Event Banner Policy](https://library.arabianvacc.com/vacc_documents/marketing/branding/)
-🔗 [View Examination Banner Policy](https://library.arabianvacc.com/vacc_documents/marketing/banners/)
+🔗 [View Event Banner Policy](https://library.vatsim-arabian.com/policies/marketing/banners/)
+🔗 [View Examination Banner Policy](https://library.vatsim-arabian.com/policies/marketing/examinations/)
 
 ## The thoughts behind the logo
 The logo was designed by **Naman Gaur (1506377)** following the merger of the **Bahrain & Qatar, Emirates, and Muscat vACCs**. It features a modern, clean, and professional design, emphasizing clarity and precision. The design incorporates an oryx, symbolizing the unity of the three countries, and is minimalistic, reinforcing simplicity and elegance. 
