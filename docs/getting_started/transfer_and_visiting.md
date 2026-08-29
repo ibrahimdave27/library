@@ -26,7 +26,6 @@ This ensures compliance with both global and regional procedures.
 
 The **Arabian vACC** is part of the **Middle East & North Africa Division (VATMENA)** and includes the following **three FIRs**:
 
-- **Doha FIR**
 - **Muscat FIR**
 - **U.A.E FIR**
 
@@ -101,6 +100,6 @@ To continue holding visiting privileges in the Arabian vACC, controllers must:
 ## Transfer Process
 To apply for a **transfer** to the **Arabian vACC**, please follow the step-by-step instructions provided in the official guide:
 
-👉 [**Joining the Arabian vACC**](https://library.arabianvacc.com/getting_started/joining_arabian/)
+👉 [**Joining the Arabian vACC**](https://library.vatsim-arabian.com/getting_started/joining_arabian/)
 
 This guide will walk you through the entire process, from checking your current assignment to submitting a formal transfer request. Be sure to read it carefully to ensure a smooth transition.

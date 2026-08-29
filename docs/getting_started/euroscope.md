@@ -12,7 +12,7 @@ EuroScope is a software application that allows members to provide air traffic c
 
 - **Download EuroScope**  
      - Visit the official EuroScope website: [https://www.euroscope.hu/](https://www.euroscope.hu/).  
-     - Download the recommended **public release version 3.2.9** [Here](https://euroscope.hu/install/EuroScopeSetup.3.2.9.msi)
+     - Download the recommended **public release version 3.2.9** [Here](https://drive.google.com/file/d/1--pvXgV-W9p2Ezj9jfM7bAc679Ws1axY/view)
 
 - **Optional: Beta Version**  
      - You may install the latest beta version at your discretion. Be aware that some beta builds may contain bugs that could affect controlling. Follow the recommendations in this guide to determine which beta version to use.  
@@ -36,8 +36,7 @@ EuroScope is a software application that allows members to provide air traffic c
 ### Sector File Installation  
 - **Download the Sector Files**  
      - Sector files for the Arabian vACC are hosted on the AeroNav Association website ([files.aero-nav.com](https://files.aero-nav.com)):  
-       - **OMAE** - U.A.E ([files.aero-nav.com/OMAE](https://files.aero-nav.com/OMAE))  
-       - **OTDF** - Doha ([files.aero-nav.com/OTDF](https://files.aero-nav.com/OTDF))  
+       - **OMAE** - U.A.E ([files.aero-nav.com/OMAE](https://files.aero-nav.com/OMAE))
        - **OOMM** - Muscat ([files.aero-nav.com/OOMM](https://files.aero-nav.com/OOMM))  
 
 - **Install the Sector Files**  
@@ -87,7 +86,7 @@ Before starting, ensure you have installed and set up an **Audio for VATSIM** cl
 ### Connecting to the Network  
 
 - **Load a Profile**  
-     - Open the EuroScope profile for the position you want to observe (e.g., Aerodrome Dubai, Aerodrome Abu Dhabi, or Aerodrome Doha).  
+     - Open the EuroScope profile for the position you want to observe (e.g., Aerodrome Dubai or Aerodrome Abu Dhabi).  
 
 - **Connect to the Network**  
      - Click the **Connect** button in the top-left corner of the screen.  
