@@ -10,11 +10,11 @@
 |                     |                            |
 |---------------------|----------------------------|
 |         Type        |                      Policy                        |
-|       Revision      |                     03/2025                      |
-|    Effective Date   |                     12 SEP 2025                    |
-|     Prepared by     | Ian Bijl - ACCARB6 |
-|     Approved by     | Chriss Klosowski - ACCARB1                         |
-|   Next review date  |                       12 SEP 2026                  |
+|       Revision      |                     08/2026                      |
+|    Effective Date   |                     01 SEP 2026                    |
+|     Prepared by     | Albarraa - ARBMEM |
+|     Approved by     | Rohan Sturdy - ACCARB1                         |
+|   Next review date  |                       01 AUG 2027                  |
 | Cancelled documents |       N/A     |
 
 ### Record of Revisions
@@ -29,6 +29,7 @@
 | 01/2025 | Full policy rewrite to ensure full compliance with VATSIM’s Global Controller Administration Policy (GCAP), Transfer & Visiting Controller Policy, and VATMENA Divisional Policies,<br>Removed Emirates vACC branding and updated to align with the new Arabian vACC branding, including the addition of two additional FIRs. | 10 APR 2025 |
 | 02/2025 | Added references to Tier 1 standardised training as defined in the Arabian vACC Training Policy | 18 AUG 2025 | 
 | 03/2025 | Additions to policy, such as: <br> Clauses for easier referring, <br> Controller conduct policy <br> Dispute and reporting, <br> Event policy, <br> Rewrite of Controller Activity Requirement <br> Standard calendar quarters| 12 SEP 2025 | 
+| 08/2026 | Rectifications to the policy such as;<br> Rectifying outdated links, <br> Removal of Doha FIR from the policy, <br> Change all actions via Discord to the VATMENA HQ. | 01 SEP 2026 | 
 
 ---
 
@@ -40,7 +41,7 @@ The Arabian vACC is responsible for the provision, management, and facilitation 
 
 As part of its core responsibilities, the Arabian vACC oversees the training and certification of controllers operating within the **Muscat FIR (OOMM)**, and **U.A.E FIR (OMAE)**.
 
-All members of VATSIM are expected to comply with the **VATSIM Code of Conduct** and **Code of Regulations**, which serve as the foundational rules governing behaviour and operations across the network.
+All members of VATSIM are expected to comply with the [**VATSIM Code of Conduct**](https://vatsim.net/docs/policy/code-of-conduct) and [**Code of Regulations**](https://vatsim.net/docs/policy/code-of-regulations), which serve as the foundational rules governing behaviour and operations across the network.
 
 ---
 
@@ -53,12 +54,12 @@ A **transferring controller** is defined as a VATSIM member seeking a permanent 
 - The controller may hold **any ATC rating**.
 - A **minimum of 50 hours of controlling** must be logged at the current vACC before applying.
 - The controller must have completed any **rating upgrade or previous transfer at least 90 days prior** to the new transfer request.
-- The controller must agree to and comply with the **Arabian vACC ATC Training Policy** upon acceptance.
-- All transfers must conform to the **VATSIM Transfer and Visiting Controller Policy (TVCP)** and the **VATMENA Membership Policy**.
+- The controller must agree to and comply with the [**Arabian vACC ATC Training Policy**](https://library.vatsim-arabian.com/policies/atc_training/general/) upon acceptance.
+- All transfers must conform to the [**VATSIM Transfer and Visiting Controller Policy (TVCP)**](https://cdn.vatsim.net/policy-documents/TVCP%20V3.0%20Release%2008152026r1.pdf) and the [**VATMENA Membership Policy**](https://cdn.vatsim.me/policies/VATMENA_POL_MP_01-2025.pdf).
 
 To initiate a transfer request, please refer to the official guide:
 
-👉 [**Joining the Arabian vACC**](https://library.arabianvacc.com/getting_started/joining_arabian/)
+👉 [**Joining the Arabian vACC**](https://library.vatsim-arabian.com/getting_started/joining_arabian/)
 
 This guide outlines the required steps and documentation for a successful transfer application.
 
@@ -68,21 +69,21 @@ This guide outlines the required steps and documentation for a successful transf
 
 A **visiting controller** is a VATSIM member who retains their primary home vACC but wishes to control within the Arabian vACC on an occasional basis. Visiting controllers must meet the following criteria:
 
-- Applicants must possess an **S2 ATC rating for VATMENA residents** or an **S3 ATC rating for non-VATMENA residents**, in compliance with **GCAP** and **TVCP**.
-- Must comply with the **Arabian vACC Training Policy** and **operational procedures**.
+- Applicants must possess an **S2 ATC rating for VATMENA residents** or an **S3 ATC rating for non-VATMENA residents**, in compliance with [**GCAP**](https://cdn.vatsim.net/policy-documents/GCAP%20v2.0%20Release%2008152026r1.pdf) and [**TVCP**](https://cdn.vatsim.net/policy-documents/TVCP%20V3.0%20Release%2008152026r1.pdf).
+- Must comply with the [**Arabian vACC Training Policy**](https://library.vatsim-arabian.com/getting_started/joining_arabian/) and **operational procedures**.
 - Acceptance is subject to staff discretion and space availability.
 
 Guide link:
 
-👉 [**Applying as a Visiting Controller**](https://library.arabianvacc.com/getting_started/starting_atc_training/)
+👉 [**Applying as a Visiting Controller**](https://library.vatsim-arabian.com/getting_started/transfer_and_visiting/)
 
 ---
 
 ### 2.3 VATMENA Transfer and Visiting Policy Alignment
 
-The Arabian vACC abides by Sections **7, 8, and 9** of the **VATMENA Membership Policy** regarding all inbound transfer and visiting controller requests.
+The Arabian vACC abides by Sections **7, 8, and 9** of the [**VATMENA Membership Policy**](https://cdn.vatsim.me/policies/VATMENA_POL_MP_01-2025.pdf) regarding all inbound transfer and visiting controller requests.
 
-- **Transfer controllers** are not full division members until onboarding steps are completed.  
+- **Transfer controllers** are not full division members until the induction plans are completed.  
 - **Visiting controllers** are not added to the ATC roster until all approvals and prerequisites are fulfilled.
 
 ---
@@ -103,7 +104,7 @@ Additional rules:
 - Hours on Tier 2 facilities only apply to restricted hours (not Tier 1).  
 - Sessions under **30 minutes** do not count.
 
-Calendar quarters are defined in Membership Policy clause 7.
+Calendar quarters are defined in Membership Policy clause 8.
 
 This supports **#ClearVision** and **#ClearMission** and complies with GCAP 9.4(c)(i) and VATMENA Policy.
 
@@ -126,7 +127,7 @@ Controllers may request an LoA if unable to meet requirements.
 
 | Step / Topic | Details |
 |--------------|---------|
-| Submission | Submit Discord support ticket titled **"Leave of Absence Request"** |
+| Submission | Submit [MENA HQ support ticket](https://hq.vatsim.me/support) titled **"Leave of Absence Request"** |
 | Reason | Valid reason required; approval discretionary |
 | Duration | Up to 90 days; one renewal allowed unless extended |
 | Activity Requirement | Exempt during LoA; marked as “Not Approved” |
@@ -140,13 +141,13 @@ Controllers may cancel or modify LoA by notifying Membership. A recurrency sessi
 
 ### 4.1 Resident Controllers
 
-Removed residents may request reinstatement via **Discord support ticket** and must follow Training Policy reinstatement procedures.
+Removed residents may request reinstatement via [**MENA HQ support ticket**](https://hq.vatsim.me/support) and must follow Training Policy reinstatement procedures.
 
 ---
 
 ### 4.2 Visiting Controllers
 
-Removed visiting controllers may reapply **after 30 days** via Discord ticket, following Training Policy reinstatement procedures.
+Removed visiting controllers may reapply **after 30 days** via Discord ticket, following clause 13 of the [ATC Training Policy](https://library.vatsim-arabian.com/policies/atc_training/general/) reinstatement procedures.
 
 ---
 
@@ -161,11 +162,11 @@ Removed visiting controllers may reapply **after 30 days** via Discord ticket, f
 
 Controllers must uphold professionalism and comply with:
 
-- VATSIM Code of Conduct  
-- VATSIM Code of Regulations  
-- vACC Training System  
-- SOPs  
-- vMATS  
+- [VATSIM Code of Conduct](https://vatsim.net/docs/policy/code-of-conduct)  
+- [VATSIM Code of Regulations](https://vatsim.net/docs/policy/code-of-regulations)  
+- [Arabian vACC ATC Training Policy](https://library.vatsim-arabian.com/policies/atc_training/general/)  
+- [SOPs](https://library.vatsim-arabian.com/)  
+- [vMATS](https://library.vatsim-arabian.com/foundations/)  
 - Operational Changes  
 - LoAs  
 
@@ -175,7 +176,7 @@ Violations may lead to **immediate removal** without notice.
 
 ### 5.1 Zero Tolerance for Misconduct
 
-Any hate speech, violence, derogatory remarks, or personal attacks result in **immediate permanent removal** and reporting to VATSIM.
+Any hate speech, violence, derogatory remarks, or personal attacks result in **immediate permanent removal** and reporting to VATMENA Division.
 
 ---
 
@@ -192,14 +193,13 @@ Residents represent the vACC everywhere. Speaking ill of **any** vACC or control
 
 ### 6.1 Reporting Issues
 
-Submit issues via:  
-https://vats.im/arb/feedback
+Submit issues via [MENA HQ Support Ticket](https://hq.vatsim.me/support)
 
 ---
 
 ### 6.2 Conflict Resolution Process
 
-If unresolved via form, submit a membership ticket using this format:
+If unresolved via form, submit a membership ticket to the MENA HQ using this format:
 
 | Item | Description |
 |------|-------------|
@@ -223,7 +223,7 @@ All cancellations/no-shows are recorded. Controllers must notify Marketing using
 - **Post in signup forum**  
 - **Submit Support Ticket to Marketing**
 
-Also update your original availability post with **strikethrough**.
+Also update your original availability post through the **Sign up Forum/Thread**.
 
 ---
 
@@ -241,4 +241,4 @@ Also update your original availability post with **strikethrough**.
 ## 9. Non-Compliance with this Policy
 
 Ignorance is not an acceptable defence.  
-Repeated violations will result in revocation of approvals.
+Repeated violations will result in revocation of approvals and possible escalations.
