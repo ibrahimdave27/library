@@ -45,8 +45,8 @@ Events organized by the **Arabian vACC** or those in which the vACC participates
 
 The Marketing Department strives to:
 
-- Publish **controller examinations** with at least **2 weeks’ notice** or when examiner/s have been conlcuded and chosen.  
-- Publish **events** with at least **2 weeks’ notice**.  
+- Publish **controller examinations** with at least **1 weeks’ notice** or when examiner/s have been conlcuded and chosen.  
+- Publish **events** with at least **1 weeks’ notice**.  
 - Publish **rosters** for rostered events **no later than the night before** the event. And at **least 48 hours** prior a large event.  
 
 Requests for ATC coverage from **virtual airlines** or other vACCs are generally **not published in the calendar** and usually require only a staffing announcement, this clause is overruled with VA's that are partnered with the Arabian vACC.
